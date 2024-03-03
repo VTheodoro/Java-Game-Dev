@@ -1,6 +1,6 @@
-# Repositório do Curso de Desenvolvimento de Games da Danki Code
+# Repositório de conteído sobre Java 🍵 
 
-Bem-vindo ao meu repositório do Curso de Desenvolvimento de Games da Danki Code! Aqui você encontrará uma coleção de aulas, atividades, recursos e projetos para aprender e praticar o desenvolvimento de jogos. Estou atualizando regularmente este repositório à medida que avanço no curso, adicionando aulas organizadas do básico ao avançado, com tópicos nomeados e comentários explicativos em cada código. Além disso, projetos interessantes estão disponíveis para exploração e estudo.
+Bem-vindo ao meu repositório do Curso de Desenvolvimento de Games da Danki Code! Aqui você encontrará uma coleção de aulas, atividades, recursos e projetos que podem ser usados para aprender e praticar a linguagem java, conceitos do básico ao avançado na programação em geral e o desenvolvimento de jogos. Estou atualizando regularmente este repositório à medida que avanço no curso, adicionando aulas organizadas do básico ao avançado, com tópicos nomeados e comentários explicativos em cada código. Além disso, projetos interessantes estão disponíveis para exploração e estudo.
 
 ## Estrutura do Repositório
 
