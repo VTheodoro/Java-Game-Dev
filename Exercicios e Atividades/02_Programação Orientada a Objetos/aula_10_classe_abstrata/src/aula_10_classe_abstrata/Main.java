@@ -16,4 +16,4 @@ public class Main extends testAbstract{
 	
 }
 
-//OBS: a classe abstrata são utilizadas em casos BEEEM especificos.
+//OBS: a classe abstrata é utilizada em casos BEEEM especificos.
